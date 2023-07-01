@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "100resepmemasaklezat",	  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
